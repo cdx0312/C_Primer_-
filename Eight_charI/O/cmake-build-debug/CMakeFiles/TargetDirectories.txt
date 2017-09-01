@@ -1,0 +1,3 @@
+/home/cdx/CLionProjects/Eight_charI/O/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cdx/CLionProjects/Eight_charI/O/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cdx/CLionProjects/Eight_charI/O/cmake-build-debug/CMakeFiles/O.dir

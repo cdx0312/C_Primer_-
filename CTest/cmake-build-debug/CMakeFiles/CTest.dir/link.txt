@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/CTest.dir/rhodium.c.o  -o CTest 

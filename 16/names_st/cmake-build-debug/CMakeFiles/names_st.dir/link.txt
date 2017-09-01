@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/names_st.dir/names.c.o CMakeFiles/names_st.dir/useheader.c.o  -o names_st 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/pra.dir/main.c.o  -o pra 

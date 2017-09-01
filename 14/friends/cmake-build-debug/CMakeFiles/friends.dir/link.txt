@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/friends.dir/main.c.o  -o friends 

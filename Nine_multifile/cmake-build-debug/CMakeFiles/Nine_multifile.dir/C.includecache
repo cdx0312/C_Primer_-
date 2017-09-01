@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cdx/CLionProjects/Nine_multifile/hotel.c
+stdio.h
+-
+hotel.h
+/home/cdx/CLionProjects/Nine_multifile/hotel.h
+
+/home/cdx/CLionProjects/Nine_multifile/hotel.h
+
+/home/cdx/CLionProjects/Nine_multifile/main.c
+stdio.h
+-
+hotel.h
+/home/cdx/CLionProjects/Nine_multifile/hotel.h
+

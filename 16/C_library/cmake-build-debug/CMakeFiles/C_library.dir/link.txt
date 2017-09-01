@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/C_library.dir/main.c.o  -o C_library  -L/usr/local/lib 

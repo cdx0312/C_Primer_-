@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/17_3_films3.dir/main.c.o CMakeFiles/17_3_films3.dir/list.c.o  -o 17_3_films3 

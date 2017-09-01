@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/func_ptr.dir/main.c.o  -o func_ptr 

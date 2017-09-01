@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/hash1.dir/main.c.o  -o hash1 

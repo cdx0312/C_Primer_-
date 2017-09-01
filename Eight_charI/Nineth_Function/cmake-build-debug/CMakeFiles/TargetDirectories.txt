@@ -1,0 +1,3 @@
+/home/cdx/CLionProjects/Eight_charI/Nineth_Function/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cdx/CLionProjects/Eight_charI/Nineth_Function/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cdx/CLionProjects/Eight_charI/Nineth_Function/cmake-build-debug/CMakeFiles/Nineth_Function.dir

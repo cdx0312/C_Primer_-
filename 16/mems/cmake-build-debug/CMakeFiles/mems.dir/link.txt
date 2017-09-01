@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/mems.dir/main.c.o  -o mems 

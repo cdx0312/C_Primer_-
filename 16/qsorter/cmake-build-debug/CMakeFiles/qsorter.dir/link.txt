@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/qsorter.dir/main.c.o  -o qsorter 

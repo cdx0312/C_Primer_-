@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/17_2_film_s2_c.dir/main.c.o  -o 17_2_film_s2_c 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/Nine_multifile.dir/main.c.o CMakeFiles/Nine_multifile.dir/hotel.c.o  -o Nine_multifile 

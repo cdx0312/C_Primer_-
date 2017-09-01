@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/Seven_if.dir/main.c.o  -o Seven_if 

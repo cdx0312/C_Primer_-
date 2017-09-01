@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Nine_MUti_file.dir/main.cpp.o  -o Nine_MUti_file 

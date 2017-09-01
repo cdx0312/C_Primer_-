@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cdx/CLionProjects/17/17.3_films3/list.c
+stdio.h
+-
+stdlib.h
+-
+list.h
+/home/cdx/CLionProjects/17/17.3_films3/list.h
+
+/home/cdx/CLionProjects/17/17.3_films3/list.h
+stdbool.h
+-
+
+/home/cdx/CLionProjects/17/17.3_films3/main.c
+stdio.h
+-
+stdlib.h
+-
+list.h
+/home/cdx/CLionProjects/17/17.3_films3/list.h
+

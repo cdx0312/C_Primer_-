@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/Eleventh_string.dir/main.c.o  -o Eleventh_string 

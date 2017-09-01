@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cdx/CLionProjects/17/17.7binary_search_tree/main.c
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+tree.h
+/home/cdx/CLionProjects/17/17.7binary_search_tree/tree.h
+
+/home/cdx/CLionProjects/17/17.7binary_search_tree/tree.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+tree.h
+/home/cdx/CLionProjects/17/17.7binary_search_tree/tree.h
+
+/home/cdx/CLionProjects/17/17.7binary_search_tree/tree.h
+stdbool.h
+-
+

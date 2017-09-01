@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/Nineth_Function.dir/main.c.o  -o Nineth_Function 

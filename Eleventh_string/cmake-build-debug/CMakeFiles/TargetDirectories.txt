@@ -1,0 +1,3 @@
+/home/cdx/CLionProjects/Eleventh_string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cdx/CLionProjects/Eleventh_string/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cdx/CLionProjects/Eleventh_string/cmake-build-debug/CMakeFiles/Eleventh_string.dir

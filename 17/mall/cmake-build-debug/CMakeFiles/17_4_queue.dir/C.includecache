@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cdx/CLionProjects/17/mall/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+queue.h
+/home/cdx/CLionProjects/17/mall/queue.h
+
+/home/cdx/CLionProjects/17/mall/queue.c
+stdio.h
+-
+stdlib.h
+-
+queue.h
+/home/cdx/CLionProjects/17/mall/queue.h
+
+/home/cdx/CLionProjects/17/mall/queue.h
+stdbool.h
+-
+

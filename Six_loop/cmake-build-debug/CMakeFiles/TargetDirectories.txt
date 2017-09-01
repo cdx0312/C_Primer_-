@@ -1,0 +1,3 @@
+/home/cdx/CLionProjects/Six_loop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cdx/CLionProjects/Six_loop/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cdx/CLionProjects/Six_loop/cmake-build-debug/CMakeFiles/Six_loop.dir

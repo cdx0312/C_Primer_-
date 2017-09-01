@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cdx/CLionProjects/16/names_st/names.c
+stdio.h
+-
+names.h
+/home/cdx/CLionProjects/16/names_st/names.h
+
+/home/cdx/CLionProjects/16/names_st/names.h
+
+/home/cdx/CLionProjects/16/names_st/useheader.c
+stdio.h
+-
+names.h
+/home/cdx/CLionProjects/16/names_st/names.h
+

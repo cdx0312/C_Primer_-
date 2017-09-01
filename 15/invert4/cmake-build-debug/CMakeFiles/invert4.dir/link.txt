@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/invert4.dir/main.c.o  -o invert4 

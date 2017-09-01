@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Hash1.dir/main.cpp.o  -o Hash1 

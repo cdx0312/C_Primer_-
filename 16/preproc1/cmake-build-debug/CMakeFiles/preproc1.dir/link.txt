@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/preproc1.dir/main.c.o  -o preproc1 

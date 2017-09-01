@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cdx/CLionProjects/Twelveth_class/diceroll.c
+stdio.h
+-
+stdlib.h
+-
+diceroll.h
+/home/cdx/CLionProjects/Twelveth_class/diceroll.h
+
+/home/cdx/CLionProjects/Twelveth_class/diceroll.h
+
+/home/cdx/CLionProjects/Twelveth_class/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+diceroll.h
+/home/cdx/CLionProjects/Twelveth_class/diceroll.h
+
+/home/cdx/CLionProjects/Twelveth_class/partb.c
+stdio.h
+-
+
+/home/cdx/CLionProjects/Twelveth_class/rand0.c
+
+/home/cdx/CLionProjects/Twelveth_class/s_and_r.c
+zconf.h
+-
+

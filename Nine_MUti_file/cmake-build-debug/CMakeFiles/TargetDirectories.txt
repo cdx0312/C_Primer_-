@@ -1,0 +1,3 @@
+/home/cdx/CLionProjects/Nine_MUti_file/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cdx/CLionProjects/Nine_MUti_file/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cdx/CLionProjects/Nine_MUti_file/cmake-build-debug/CMakeFiles/Nine_MUti_file.dir

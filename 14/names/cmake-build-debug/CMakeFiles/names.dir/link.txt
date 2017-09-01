@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/names.dir/main.c.o  -o names 
